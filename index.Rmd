@@ -29,7 +29,7 @@ Let's link to useful tools for data science:
 
 ## Local image
 
-![](images/image1.jpeg)
+![This is my image](images/image1.jpeg)
 
 <!-- you can use html like this: <img scr='images/image1.jpeg' style='width:75%'> -->
 
